@@ -1,0 +1,128 @@
+{
+    "delay": 10,
+    "events": [
+        {
+            "id": "35005CB7930E4F7E",
+            "name": "UFC Fight Night",
+            "section": "A1"
+        },
+        {
+            "id": "36005B5CF22259C5",
+            "name": "Greta Van Fleet"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo1"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo2"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo3"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo4"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo5"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo6"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo7"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo8"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo9"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo10"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo11"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo12"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo13"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo14"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo15"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo16"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo17"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo18"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo19"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo20"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo21"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo22"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo23"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo24"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo25"
+        },
+        {
+            "id": "1F005B829283193D",
+            "name": "Cirque du Soleil: Corteo26"
+        }
+    ],
+    "notification_webhook": "https://discord.com/api/webhooks/688793950387306529/FZQiU-HucZFor59jJ8XQVXwzh7hOy6Fgbca12LQG9pE6ngaL3ellJH3I0eQvYMgMKmpx",
+    "debug": true,
+    "use_proxies": false,
+    "proxies": [
+        "IP:Port:Username:Password",
+        "IP:Port:Username:Password",
+        "IP:Port:Username:Password",
+        "IP:Port:Username:Password",
+        "1.2.3.4:5000:username1:passwrd33"
+    ]
+}
