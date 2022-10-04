@@ -115,7 +115,7 @@
             "name": "Cirque du Soleil: Corteo26"
         }
     ],
-    "notification_webhook": "https://discord.com/api/webhooks/688793950387306529/FZQiU-HucZFor59jJ8XQVXwzh7hOy6Fgbca12LQG9pE6ngaL3ellJH3I0eQvYMgMKmpx",
+    "notification_webhook": "",
     "debug": true,
     "use_proxies": false,
     "proxies": [
